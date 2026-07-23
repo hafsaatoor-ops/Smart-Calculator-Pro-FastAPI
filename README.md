@@ -158,10 +158,7 @@ SMART_CALCULATOR_PRO/
     │   └── error.log
     │
     ├── screenshots/
-    │   ├── calculator.png
-    │   ├── dashboard.png
-    │   ├── history.png
-    │   └── login.png
+    │  
     │
     ├── tests/
     │   ├── test_auth.py
@@ -263,29 +260,25 @@ http://localhost:8501
 
 ---
 
-# 📸 Screenshots
+# 📸 Application Screenshots
 
-## Login
+This project includes **21 screenshots** showcasing both the **Backend APIs** and the **Frontend User Interface**.
 
-![Login](screenshots/login.png)
+The screenshots demonstrate:
 
----
+- 🔐 User Authentication (Signup & Login)
+- 🧮 Calculator Operations
+- 📊 Statistics Dashboard
+- 📜 Calculation History
+- 📥 CSV Export
+- 👤 User Profile
+- ⚙️ Settings
+- 📄 Swagger API Documentation
+- 💻 Streamlit Frontend Pages
+- 🚀 Backend API Responses
 
-## Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
----
-
-## Calculator
-
-![Calculator](screenshots/calculator.png)
-
----
-
-## History
-
-![History](screenshots/history.png)
+All screenshots are available inside the **screenshots/** folder.
+> 📷 The screenshots folder contains the complete visual walkthrough of the application, including both backend API testing and frontend interface.
 
 ---
 
